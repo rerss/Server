@@ -1,2 +1,2 @@
-# Server
-Server S4
+# S4Emu-
+S4 League Emulator
